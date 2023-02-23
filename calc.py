@@ -11,4 +11,8 @@ def prod(x: int, y: int) -> int:
 
 
 def div(x: int, y: int) -> int:
+<<<<<<< HEAD
     return x // y///
+=======
+    return x / y
+>>>>>>> f57fa52113b533c68736121954f5598898bb053b
